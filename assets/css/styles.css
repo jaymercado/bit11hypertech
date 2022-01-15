@@ -1,0 +1,25 @@
+.jumbotron {
+  height: 100vh;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:focus,
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+#facebook:link,
+#facebook:visited,
+#facebook:hover,
+#facebook:focus,
+#facebook:active {
+  color: blue;
+  text-decoration: none;
+}
+
+#title {
+  color: green;
+}
